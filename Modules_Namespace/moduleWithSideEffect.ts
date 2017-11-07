@@ -1,0 +1,1 @@
+console.log(" Hello from module with side effects");
